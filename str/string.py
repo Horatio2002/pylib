@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
 #use for reference:
+=======
+**from https://www.cnblogs.com/huangcong/archive/2011/08/29/2158268.html
+
+>>>>>>> origin/master
 去空格及特殊符号
 s.strip().lstrip().rstrip(',')
 复制字符串
