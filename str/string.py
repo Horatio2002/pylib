@@ -1,3 +1,5 @@
+
+#use for reference:
 去空格及特殊符号
 s.strip().lstrip().rstrip(',')
 复制字符串
